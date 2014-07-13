@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Сб. 05 июля 2014 00:26:52
+
+BeginCmp
+TimeStamp = /53B453A6;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B44A10;
+Reference = IC1;
+ValeurCmp = ATMEGA328P-TQFP32;
+IdModule  = TQFP32;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B44F5F;
+Reference = IC2;
+ValeurCmp = SP3485CN;
+IdModule  = so-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B44DC6;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B4528F;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B4510D;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B707A6;
+Reference = P4;
+ValeurCmp = RELEPD5;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B707AC;
+Reference = P5;
+ValeurCmp = CONN_2RELEPB4;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B7013C;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B70190;
+Reference = Q2;
+ValeurCmp = MOSFET_N;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B45424;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B451EA;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B457C7;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B59FCA;
+Reference = R4;
+ValeurCmp = 560;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B59FD0;
+Reference = R5;
+ValeurCmp = 560;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B44AD1;
+Reference = U1;
+ValeurCmp = IRU1015;
+IdModule  = DPAK3;
+EndCmp
+
+EndListe
