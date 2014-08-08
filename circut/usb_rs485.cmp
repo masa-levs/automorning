@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Ср. 06 авг. 2014 22:34:47
+
+BeginCmp
+TimeStamp = /5256F990;
+Reference = C1;
+ValeurCmp = C0.1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52584C01;
+Reference = C2;
+ValeurCmp = C1.0uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /52584CC4;
+Reference = C3;
+ValeurCmp = C0.1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5256FA36;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2279D;
+Reference = IC1;
+ValeurCmp = SP3485CNASM;
+IdModule  = so-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5256FCCF;
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E22948;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E229CF;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E229BC;
+Reference = R2;
+ValeurCmp = 560;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E229C9;
+Reference = R3;
+ValeurCmp = 560;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E27425;
+Reference = R4;
+ValeurCmp = K4.7;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5256F8C6;
+Reference = U1;
+ValeurCmp = CP2102;
+IdModule  = QFN28;
+EndCmp
+
+EndListe
